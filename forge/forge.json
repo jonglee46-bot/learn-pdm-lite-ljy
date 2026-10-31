@@ -1,0 +1,9 @@
+{
+  "slug": "learn-pdm-lite-ljy",
+  "answer": {
+    "skill": "learn-pdm-lite-ljy",
+    "workdir": "assets/lab",
+    "cmd": "python3 -I \"{answers}/solve_trend.py\"",
+    "expected": "assets/answers/expected.json"
+  }
+}

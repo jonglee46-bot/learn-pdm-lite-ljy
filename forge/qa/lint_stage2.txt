@@ -1,0 +1,4 @@
+learn-pdm-lite-ljy: 블록 3개 · 퀴즈 0문항
+오류 0건 · 경고 2건
+  [경고] .claude\skills\learn-pdm-lite-ljy\references\block1-noise-vs-trend.md: QUIZ 미작성
+  [경고] .claude\skills\learn-pdm-lite-ljy\references\block1-noise-vs-trend.md: 수치 자리표시자 남음 ['{{expected:b_temp_start}}', '{{expected:b_vib_start}}', '{{expected:a_vib_judgement}}'] (4단계에서 채움)

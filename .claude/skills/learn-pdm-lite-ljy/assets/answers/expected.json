@@ -1,0 +1,26 @@
+{
+  "values": {
+    "b_temp_start": {
+      "value": "13:00",
+      "block": 1
+    },
+    "b_vib_start": {
+      "value": "15:00",
+      "block": 1
+    },
+    "a_vib_judgement": {
+      "value": "노이즈",
+      "block": 1
+    },
+    "lead_minutes": {
+      "value": 160,
+      "decimals": 0,
+      "block": 1
+    },
+    "b_temp_upper": {
+      "value": 57.0,
+      "decimals": 1,
+      "block": 1
+    }
+  }
+}
