@@ -8,3 +8,6 @@
 - [x] 승인 ② (2026-10-31)
 - [x] 5 학습자 자료 (2026-10-31) — GUIDE.md, 매뉴얼 덱은 10분 실습판이라 생략
 - [ ] 6 배포 — 공개 점검, 승인 ③ 대기
+- [x] 승인 ③ (2026-10-31) — public
+- [x] 6 배포 (2026-10-31) — https://github.com/jonglee46-bot/learn-pdm-lite-ljy · https://jonglee46-bot.github.io/learn-pdm-lite-ljy/ · 첫 커밋 abdde5a
+- [ ] 7 배우기·공유 — 사용자가 새 세션에서 /learn-pdm-lite-ljy 수강
